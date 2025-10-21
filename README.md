@@ -30,6 +30,6 @@ This activity aims to help learners understand how to manage image assets, load 
 
 ---
 
-Developed by: Janlee Estoy
-Course: Computer Engineering
-Activity: 4 — Image and Icons
+- Developed by: Janlee Estoy
+- Course: Computer Engineering
+- Activity: 4 — Image and Icons
